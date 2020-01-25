@@ -1,0 +1,8 @@
+/*USERS*/
+export const GET_USERS_LIST = 'GET_USERS_LIST';
+export const SET_USERS_LIST = 'SET_USERS_LIST';
+export const SET_USERS_ERROR = 'SET_USERS_ERROR';
+export const ADD_USER_STATUS = 'ADD_USER_STATUS';
+export const NEW_USER_DATA = 'NEW_USER_DATA';
+export const SET_USER_LIST_STATUS = 'SET_USER_LIST_STATUS';
+export const SET_SELECT_DATA = 'SET_SELECT_DATA';
